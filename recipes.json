@@ -1,5 +1,42 @@
 [
   {
+    "id": "1770299776210",
+    "name": "\u2601\ufe0f Cinnamon Swirl Cloud Bread \u2601\ufe0f",
+    "calories": 0,
+    "protein": 10,
+    "carbs": 1,
+    "category": "dessert",
+    "subcategory": "low-carb bread",
+    "source": "Tasty Home Recipes (Facebook/Instagram)",
+    "yield": "1 loaf",
+    "description": "\"Bread without the bloat.\" Low-carb comfort! Senior-friendly light fluffy bread that's easy to chew. Perfect for blood sugar control, evening cravings satisfied!",
+    "ingredients": [
+      "Cottage cheese",
+      "Whipped egg whites",
+      "Cinnamon (for swirl)"
+    ],
+    "steps": [
+      "Whip egg whites until fluffy",
+      "Fold in cottage cheese gently",
+      "Add cinnamon swirl",
+      "Bake at 300\u00b0F for 25 minutes",
+      "Enjoy warm!"
+    ],
+    "macros": {
+      "per_serving": {
+        "carbs": "1g",
+        "protein": "10g"
+      }
+    },
+    "notes": "Low-carb comfort bread. Senior-friendly, light and fluffy texture. Good for blood sugar control.",
+    "date": "2026-02-07T15:52:00.000000",
+    "image": "images/cinnamon_cloud_bread.jpg",
+    "cover_image": "images/cinnamon_cloud_bread.jpg",
+    "facebook_link": "https://www.facebook.com/share/r/TastyHomeRecipes/",
+    "video_url": "https://www.facebook.com/share/r/TastyHomeRecipes/",
+    "source_url": "https://www.facebook.com/share/r/TastyHomeRecipes/"
+  },
+  {
     "id": "1770299776206",
     "name": "Homemade Chicken Nuggets \ud83c\udf57",
     "calories": 372,
