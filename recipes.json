@@ -177,5 +177,143 @@
     "category": "dinner",
     "subcategory": "high-protein",
     "date": "2026-02-04T21:30:03.797199"
+  },
+  {
+    "id": "1770556215443",
+    "name": "\ud83e\udd6d Mango Craving Stopper",
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "category": "beverage",
+    "subcategory": "smoothie",
+    "source": "Running 4 Meyer (Facebook Reels)",
+    "facebook_link": "https://www.facebook.com/share/v/17Ti6vvXvu/",
+    "video_url": "https://www.facebook.com/share/v/17Ti6vvXvu/",
+    "source_url": "https://www.facebook.com/share/v/17Ti6vvXvu/",
+    "yield": "1 serving",
+    "description": "A refreshing mango smoothie perfect for stopping cravings. Simple 3-ingredient recipe.",
+    "ingredients": [
+      "1 Cup frozen Mango",
+      "1/4 Cup Greek Yoghurt",
+      "Sweetener (Optional)"
+    ],
+    "steps": [
+      "Add frozen mango to blender",
+      "Add Greek yoghurt",
+      "Add sweetener if desired",
+      "Blend until smooth",
+      "Enjoy immediately!"
+    ],
+    "notes": "Quick and easy craving buster. Great post-workout or as a healthy snack.",
+    "image": "images/mango_craving_stopper.jpg",
+    "cover_image": "images/mango_craving_stopper.jpg",
+    "date": "2026-02-08T13:49:00.000000"
+  },
+  {
+    "id": "1770559085800",
+    "name": "\ud83c\udf4c Chia Banana Protein Snack",
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "category": "snack",
+    "subcategory": "high-protein",
+    "source": "Health Hub (Facebook Reels)",
+    "facebook_link": "https://www.facebook.com/share/r/1a1Ct4voHo/",
+    "video_url": "https://www.facebook.com/share/r/1a1Ct4voHo/",
+    "source_url": "https://www.facebook.com/share/r/1a1Ct4voHo/",
+    "yield": "1 serving",
+    "description": "A healthy chia banana protein snack packed with nutrients and energy. Perfect pre or post-workout.",
+    "ingredients": [
+      "2 tablespoons chia seeds",
+      "1 cup milk (cow, almond, or soy)",
+      "1 ripe banana",
+      "1/4 teaspoon turmeric powder",
+      "1/4 teaspoon cinnamon powder",
+      "1 teaspoon honey"
+    ],
+    "steps": [
+      "In a bowl or jar, combine chia seeds and milk",
+      "Stir well to prevent clumping",
+      "Mash the ripe banana and add to the mixture",
+      "Add turmeric powder, cinnamon powder, and honey",
+      "Mix everything together thoroughly",
+      "Let sit for 10-15 minutes (or overnight in fridge) for chia to absorb liquid",
+      "Enjoy as a healthy snack!"
+    ],
+    "notes": "Can be prepared ahead and stored in fridge. Great for meal prep. Add protein powder for extra protein boost.",
+    "image": "images/chia_banana_protein_snack.jpg",
+    "cover_image": "images/chia_banana_protein_snack.jpg",
+    "date": "2026-02-08T13:58:00.000000"
+  },
+  {
+    "id": "1770563461000",
+    "name": "\ud83c\udf70 Wannabe Tiramisu",
+    "calories": 280,
+    "protein": 20,
+    "carbs": 0,
+    "category": "dessert",
+    "subcategory": "high-protein",
+    "source": "Running 4 Meyer (Facebook Reels)",
+    "facebook_link": "https://www.facebook.com/share/v/1A8deiAYEU/",
+    "video_url": "https://www.facebook.com/share/v/1A8deiAYEU/",
+    "source_url": "https://www.facebook.com/share/v/1A8deiAYEU/",
+    "yield": "1 serving",
+    "description": "A healthy, high-protein tiramisu alternative that's oh so good! Only 280 calories and 20g protein.",
+    "ingredients": [
+      "3 Rice Cakes",
+      "1 cup brewed Coffee",
+      "100g Fat free Greek yoghurt (or full-fat)",
+      "80g Protein pudding",
+      "1 spoonful honey or syrup",
+      "Cocoa Powder for dusting"
+    ],
+    "steps": [
+      "Brew a cup of coffee and let it cool",
+      "Mix Greek yoghurt with protein pudding",
+      "Add honey or syrup to sweeten",
+      "Dip rice cakes briefly in cooled coffee",
+      "Layer rice cakes and yoghurt mixture",
+      "Dust top with cocoa powder",
+      "Refrigerate for 30 minutes before serving"
+    ],
+    "notes": "High protein dessert perfect for post-workout or healthy treat. Use full-fat Greek yoghurt for extra creaminess.",
+    "image": "images/wannabe_tiramisu.jpg",
+    "cover_image": "images/wannabe_tiramisu.jpg",
+    "date": "2026-02-09T09:51:00.000000"
+  },
+  {
+    "id": "1770836788998",
+    "name": "\ud83c\udf6a Brookie Cookie Dough",
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "category": "dessert",
+    "subcategory": "no-bake snack",
+    "source": "RAWbecca Bites (Facebook/Instagram)",
+    "facebook_link": "https://www.facebook.com/share/r/1LPBVeNy5X/",
+    "video_url": "https://www.facebook.com/share/r/1LPBVeNy5X/",
+    "source_url": "https://www.facebook.com/share/r/1LPBVeNy5X/",
+    "yield": "Multiple servings",
+    "description": "This brookie version is a HUGE VIBE! We love a no bake, simple and delicious snack! Raw edible cookie dough meets brownie.",
+    "ingredients": [
+      "1/2 cup yoghurt",
+      "2 tbsp maple syrup",
+      "1/2 cup vanilla protein",
+      "1/2 cup almond flour",
+      "1 tbsp cacao powder",
+      "Dark chocolate chips"
+    ],
+    "steps": [
+      "Mix yoghurt and maple syrup in a bowl",
+      "Add vanilla protein powder and mix well",
+      "Add almond flour and cacao powder",
+      "Fold in dark chocolate chips",
+      "Enjoy as raw cookie dough or roll into balls",
+      "Store in refrigerator"
+    ],
+    "notes": "No-bake edible cookie dough. Can be eaten raw or shaped into balls. Store refrigerated.",
+    "image": "images/brookie_cookie_dough.jpg",
+    "cover_image": "images/brookie_cookie_dough.jpg",
+    "date": "2026-02-11T19:06:28.998473"
   }
 ]
